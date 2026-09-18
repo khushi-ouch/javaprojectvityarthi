@@ -1,0 +1,11 @@
+name,category,price,quantity,threshold
+Idli Sambar,breakfast,25,40,10
+Poha,breakfast,20,35,10
+Veg Thali,lunch,60,50,15
+Rajma Chawal,lunch,55,45,15
+Paneer Butter Masala,dinner,70,20,8
+Dal Fry,dinner,40,30,10
+Samosa,snacks,10,60,20
+Tea,snacks,10,100,25
+Coffee,snacks,15,80,20
+Combo Meal (Thali+Tea),combo,65,25,10
