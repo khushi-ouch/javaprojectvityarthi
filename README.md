@@ -344,8 +344,8 @@ This project covers most of the CSE2006 syllabus in one place — OOP, collectio
 
 ## 15. Author
 
-**Name:** Utkarsh Sharma  
-**Registration No.:** 25BAI11303  
+**Name:** Khushi PARASHAR 
+**Registration No.:** 25BAI10363
 **Course:** CSE2006 – Java Programming  
 **Institution:** VIT
 
