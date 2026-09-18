@@ -1,0 +1,30 @@
+# Attendance Tracker with Prediction — Application Log
+
+# NOTE:
+# This is a sample project log for repository documentation.
+# Replace/add entries below with actual runtime logs if your application
+# generates logs during execution.
+
+[INFO] Application started.
+[INFO] Attendance Tracker with Prediction initialized.
+[INFO] Main menu displayed.
+
+[INFO] User selected: Add Subject
+[INFO] Subject attendance data accepted.
+[INFO] Attendance data stored successfully.
+
+[INFO] User selected: View Attendance
+[INFO] Stored attendance data loaded successfully.
+[INFO] Attendance information displayed.
+
+[INFO] User selected: Basic Prediction
+[INFO] Attendance data processed.
+[INFO] Basic prediction completed.
+
+[INFO] User selected: AI Prediction (ML)
+[INFO] Machine learning model initialized.
+[INFO] Attendance data prepared for prediction.
+[INFO] Linear Regression model processed the available data.
+[INFO] AI prediction completed.
+
+[INFO] Application exited normally.
